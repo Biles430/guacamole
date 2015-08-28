@@ -1,1 +1,3 @@
 secret_sauce.txt
+#good idea to add /data/*.dat
+#such that it will ignore all of the data for the analysis
